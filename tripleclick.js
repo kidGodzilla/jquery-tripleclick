@@ -6,8 +6,8 @@
 {
     // Default options
     var defaults = {
-        threshold: 1000, // ms
-    }
+        threshold: 1000 // ms
+    };
 
     function tripleHandler(event)
     {
